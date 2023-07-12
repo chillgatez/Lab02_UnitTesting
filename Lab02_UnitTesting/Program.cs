@@ -2,15 +2,20 @@
 namespace Lab02_UnitTesting
 {
     internal class Program
-    {
-        static void Main(string[] args)
-        {
-            UserInterface();
-        }
 
         static public decimal Balance = 0;
 
+    {
+    static void Main(string[] args)
+    {
+        UserInterface();
+    }
 
+    static public void UserInterface()
+    {
+        strig userSelection;
+        bool exit = false;
+    }
 
         static public decimal ViewBalance()
         {
