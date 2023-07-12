@@ -3,9 +3,16 @@ namespace Lab02_UnitTesting
 {
     internal class Program
     {
+        static public decimal Balance = 0;
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, World!");
+            UserInterface();
         }
+        static public decimal ViewBalance()
+        {
+            return Balance;
+        }
+
     }
 }
