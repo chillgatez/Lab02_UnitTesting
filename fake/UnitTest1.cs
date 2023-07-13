@@ -1,4 +1,4 @@
-namespace fake
+namespace Lab02_ATMUnitTest
 {
     using Xunit;
     using Lab02_UnitTesting;
@@ -7,9 +7,9 @@ namespace fake
         public class UnitTest1
         {
             [Theory]
+            [InlineData(0)]
             [InlineData(50)]
             [InlineData(100)]
-            [InlineData(1000)]
             public void TestViewBalance(decimal initialBalance)
             {
                 Lab02_UnitTesting.Program.Balance = initialBalance;

@@ -62,7 +62,7 @@ namespace Lab02_UnitTesting
                 }
                 else if (userSelection == "e")
                 {
-                    Console.WriteLine("Goodbye... Exiting application...");
+                    Console.WriteLine("Thank you for banking with Code Crew Credit Union Exiting application...");
                     exit = true;
                 }
                 else
