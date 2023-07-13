@@ -4,9 +4,9 @@
 Lab02_UnitTesting is a console application that simulates the functionality of an ATM. It allows users to perform transactions such as viewing the balance, making withdrawals, and making deposits. This application was developed using Test Driven Development (TDD) to ensure its functionality and reliability.
 
 ## Visuals
-![console app]()
-![console app]()
-![tests ran]()
+![console app](https://github.com/chillgatez/Lab02_UnitTesting/blob/master/Assets/Screenshot%20(24).png?raw=true)
+![console app](https://github.com/chillgatez/Lab02_UnitTesting/blob/master/Assets/Screenshot%20(25).png?raw=true)
+![tests ran](https://github.com/chillgatez/Lab02_UnitTesting/blob/master/Assets/Screenshot%20(27).png?raw=true)
 
 ## Usage
   **Prerequisites:**
