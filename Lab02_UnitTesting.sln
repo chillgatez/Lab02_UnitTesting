@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.6.33815.320
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02_UnitTesting", "Lab02_UnitTesting\Lab02_UnitTesting.csproj", "{A2B11455-4843-4002-9259-C20ADA7652C1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Lab02_UnitTesting", "Lab02_UnitTesting\Lab02_UnitTesting.csproj", "{A2B11455-4843-4002-9259-C20ADA7652C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02Test", "Lab02Test\Lab02Test.csproj", "{A349170D-6164-4682-AD27-A709ED380ABC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab02_ATMTest", "fake\Lab02_ATMTest.csproj", "{C301FC72-D493-4CA9-84F7-D9D313C9A0CD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{A2B11455-4843-4002-9259-C20ADA7652C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A2B11455-4843-4002-9259-C20ADA7652C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A2B11455-4843-4002-9259-C20ADA7652C1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{A349170D-6164-4682-AD27-A709ED380ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{A349170D-6164-4682-AD27-A709ED380ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{A349170D-6164-4682-AD27-A709ED380ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{A349170D-6164-4682-AD27-A709ED380ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C301FC72-D493-4CA9-84F7-D9D313C9A0CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C301FC72-D493-4CA9-84F7-D9D313C9A0CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C301FC72-D493-4CA9-84F7-D9D313C9A0CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C301FC72-D493-4CA9-84F7-D9D313C9A0CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
